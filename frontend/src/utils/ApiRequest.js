@@ -1,5 +1,5 @@
-const host = "https://expense-tracker-snowy-five-17.vercel.app/";
-// const host = "http://localhost:5000";
+const host = "https://expense-tracker-node-45sh.onrender.com";
+// const host = "http://localhost:4000";
 export const setAvatarAPI = `${host}/api/auth/setAvatar`;
 export const registerAPI = `${host}/api/auth/register`;
 export const loginAPI = `${host}/api/auth/login`;
